@@ -162,5 +162,27 @@ body{
     width: 100%;
     text-align: center;
 }
+/* seccion ENCHAPADO */
+#revocar .titulo{
+    width: 100%;
+    text-align: center;
+}
+
+    /* seccion pinturas */
+    #pinturas .titulo{
+        width: 100%;
+        text-align: center;
+    }
+/* seccion cielos*/
+#cielos .titulo{
+    width: 100%;
+    text-align: center ;
+}
+/* seccion paredes en Dryboard */
+#paredes en Dryboard .titulo{
+    width: 100%;
+    text-align: center;
+}
+    
 
 
